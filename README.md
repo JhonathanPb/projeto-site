@@ -15,7 +15,7 @@ Se você quer aprender Git e GitHub de forma simples, prática e eficiente, esse
 - [x] Fazer alterações em cada ***Branch***
 - [x] Criar um ***Conflito*** de propósito nas ***Branch***'s
 - [x] Fazer ***Merge*** e resolver ***Conflitos***
-- [ ] Adicionar conteudo
+- [x] Adicionar conteudo
 - [ ] Praticar
 
 ---
