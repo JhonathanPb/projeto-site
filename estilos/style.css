@@ -53,6 +53,7 @@ main{
 
 }
 img{
+    img {
     max-width: 100%;
     height: auto; 
     display: block;
@@ -61,8 +62,10 @@ img{
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
 
 }
+}
 #Rockstar {
     width: 100px;
     height: auto;
     margin: 0 auto;
 }
+
