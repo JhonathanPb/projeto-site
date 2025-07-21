@@ -16,9 +16,4 @@ main{
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.0.473);
 
 }
-img {
-    max-width: 100%; /* A imagem NUNCA será maior que 100% da largura do seu elemento pai */
-    height: auto;    /* A altura se ajusta automaticamente para manter a proporção */
-    display: block;  /* Ajuda no layout, tratando a imagem como um bloco */
-    margin: 0 auto;  /* Opcional: centraliza a imagem se ela for menor que o elemento pai */
-}
+
