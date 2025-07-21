@@ -18,6 +18,16 @@ h1 {
        -1px -1px 0 #FFF; 
 
 }
+h2, h3, h4 {
+   font-size: 3.5em;
+   color: #000000;
+
+       text-shadow: 
+        1px 1px 0 #FFF,
+       -1px 1px 0 #FFF,    
+        1px -1px 0 #FFF,   
+       -1px -1px 0 #FFF; 
+}
 
 body{
         background-image: url(https://www.notebookcheck.info/fileadmin/_processed_/b/4/csm_GTA-VI_420f7d85ff.png);
