@@ -17,7 +17,7 @@ Se você quer aprender Git e GitHub de forma simples, prática e eficiente, esse
 - [x] Fazer ***Merge*** e resolver ***Conflitos***
 - [x] Adicionar conteudo
 - [x] Personalizar conteudo
-- [] Hospedar no GitHub
+- [ ] Hospedar no GitHub
 
 ---
 
